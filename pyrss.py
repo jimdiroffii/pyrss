@@ -61,12 +61,11 @@ def get_url():
 
 
 def menu():
-    print("PyRSS")
+    print("\nPyRSS\n")
     print("1. Add a feed")
     print("2. Delete a feed")
     print("3. List all feeds")
     print("4. Read all feeds")
-    print("5. Exit")
     print()
 
 
