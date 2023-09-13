@@ -1,0 +1,1 @@
+https://feedparser.readthedocs.io/en/latest/examples/atom10.xml
